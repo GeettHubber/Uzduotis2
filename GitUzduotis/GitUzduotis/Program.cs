@@ -28,6 +28,8 @@ namespace GitUzduotis
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("Kokio nori herojaus?");
+
         }
     }
 }
